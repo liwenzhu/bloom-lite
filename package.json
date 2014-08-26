@@ -1,0 +1,24 @@
+{
+  "name": "bloom-lite",
+  "version": "0.0.1",
+  "description": "A simple bloom filter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liwenzhu/bloom-lite.git"
+  },
+  "keywords": [
+    "bloom",
+    "filter",
+    "bloom-lite"
+  ],
+  "author": "Vince <lee.wenzhu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liwenzhu/bloom-lite/issues"
+  },
+  "homepage": "https://github.com/liwenzhu/bloom-lite"
+}
