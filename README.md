@@ -3,6 +3,8 @@ bloom-lite
 
 A simple bloom filter.
 
+[![NPM](https://nodei.co/npm/bloom-lite.png?stars&downloads)](https://nodei.co/npm/bloom-lite/) [![NPM](https://nodei.co/npm-dl/bloom-lite.png)](https://nodei.co/npm/bloom-lite/)
+
 Installation
 ============
 
